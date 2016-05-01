@@ -1,0 +1,21 @@
+{
+  "name": "themes",
+  "version": "0.0.1",
+  "authors": [
+    "Glenn Vandeuren <vandeurenglenn@gmail.com>"
+  ],
+  "description": "Themes used by custom-style-import",
+  "main": "light-theme.html",
+  "keywords": [
+    "themes"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/VandeurenGlenn/themes",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
